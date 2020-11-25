@@ -20,7 +20,7 @@
     "terminal.js": "1.0.10"
   },
   "optionalDependencies": {
-    "https-proxy-agent": "^2.2.3",
+    "https-proxy-agent": "^5.0.0",
     "socks-proxy-agent": "^5.0.0"
   },
   "bugs": {
