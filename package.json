@@ -21,7 +21,7 @@
   },
   "optionalDependencies": {
     "https-proxy-agent": "^5.0.0",
-    "socks-proxy-agent": "^5.0.1"
+    "socks-proxy-agent": "^6.0.0"
   },
   "bugs": {
     "url": "https://github.com/AnggaR96s/shell-bot/issues"
