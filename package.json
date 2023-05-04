@@ -21,7 +21,7 @@
     "wcwidth": "1.0.1"
   },
   "optionalDependencies": {
-    "https-proxy-agent": "^5.0.1",
+    "https-proxy-agent": "^6.0.0",
     "socks-proxy-agent": "^7.0.0"
   },
   "bugs": {
