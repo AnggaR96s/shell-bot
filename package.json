@@ -14,7 +14,7 @@
   "dependencies": {
     "botgram": "^2.2",
     "escape-html": "1",
-    "mime": "3",
+    "mime": "4",
     "node-pty": "^1.0.0",
     "node-termios": "0.1.3",
     "terminal.js": "1.0.11",
